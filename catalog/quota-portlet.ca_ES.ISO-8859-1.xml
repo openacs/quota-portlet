@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="quota-portlet" package_version="0.2d" locale="ca_ES" charset="ISO-8859-1">
+
+  <msg key="admin_pretty_name">Administració de quota</msg>
+  <msg key="community">Comunitat</msg>
+  <msg key="community_details">Detalls de la Comunitat</msg>
+  <msg key="global_files">Nº Arxius</msg>
+  <msg key="global_quota">Quota Global (Kb)</msg>
+  <msg key="personal_files">Arxius Personals</msg>
+  <msg key="personal_quota">Quota Personal (Kb)</msg>
+  <msg key="pretty_name">Quota</msg>
+  <msg key="quota">Quota</msg>
+  <msg key="quota_admin">Gestionar Quotes</msg>
+  <msg key="rest">Disponible</msg>
+  <msg key="total">Total</msg>
+  <msg key="used">utilitzat</msg>
+  <msg key="user">Usuari</msg>
+  <msg key="user_details">Detalls d'usuari</msg>
+</message_catalog>

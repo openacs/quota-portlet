@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="quota-portlet" package_version="0.2d" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="admin_pretty_name">Quota administration</msg>
+  <msg key="community">Community</msg>
+  <msg key="community_details">Community Details</msg>
+  <msg key="global_files">Global Files</msg>
+  <msg key="global_quota">Global Quota (Kb)</msg>
+  <msg key="personal_files">Personal Files</msg>
+  <msg key="personal_quota">Personal Quota (Kb)</msg>
+  <msg key="pretty_name">Quota</msg>
+  <msg key="quota">Quota</msg>
+  <msg key="quota_admin">Manage Quota</msg>
+  <msg key="rest">Available</msg>
+  <msg key="total">Total</msg>
+  <msg key="used">Used</msg>
+  <msg key="user">User</msg>
+  <msg key="user_details">User Details</msg>
+</message_catalog>
