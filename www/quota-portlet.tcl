@@ -28,13 +28,13 @@ ad_page_contract {
 
 }
 
-set context {}
+set context [list]
 array set config $cf
 set list_of_package_ids $config(package_id)
 set user_id [ad_conn user_id]
 set sep_package_ids [join $list_of_package_ids ", "]
 if {[llength $list_of_package_ids] == 1} { set single_p "t"} else {set single_p "f"}
-set context {}
+set context [list]
 set shaded_p $config(shaded_p)
 set quota_url "[ad_conn package_url]/quota/quota"
 set community_id [dotlrn_community::get_community_id]
